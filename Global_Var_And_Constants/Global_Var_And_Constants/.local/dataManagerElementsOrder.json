@@ -1,0 +1,42 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EnterPurchaseAmount.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strSubtotalQuantity&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "CalculatingValueAddedTax.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TotalPurchaseQuantity&45f1c86f-398b-4f46-9629-15f358348c53",
+        "VATQuantity&Sequence_2",
+        "VATaxRate&45f1c86f-398b-4f46-9629-15f358348c53"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
