@@ -11,9 +11,7 @@
     {
       "Path": "MainFlowchart.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [
-        "IsLeapYear&Flowchart_1"
-      ],
+      "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": null,
       "ConstantsSectionElementsOrder": null,
       "AddedNamespaces": null
