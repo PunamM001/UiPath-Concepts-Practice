@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hpOZecpnkUee9xbUSQ7ZtA" Reference="fk7yDnkijE-wyDeow3m8xQ/vMSvCDrm5USZdDkbhQEoeg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="16, 68, 250, 25" FullSelectorArgument="&lt;uia cls='NetUIRefedit' name='Where is the data for your table?' /&gt;" Guid="dfe053a9-ce85-4222-ac23-9e7d21138020" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='NUIDialog' title='Create Table' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="0f5960f770b88f71d92c57fbc33e2c26.png" xmlns="">0WuzSMAdx8kWf6BG3FDUt8w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

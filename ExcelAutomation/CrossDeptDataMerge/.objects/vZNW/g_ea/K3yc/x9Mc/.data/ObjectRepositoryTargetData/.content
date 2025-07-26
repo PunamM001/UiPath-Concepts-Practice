@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YXlVe3sgYUGUhtJIn6YorA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="e0a682f4-4f62-4e5b-b5a0-0d7e9c19c097" CvElementArea="78, 121, 88, 30" CvTextArea="113, 130, 18, 12" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="79, 122, 88, 30" ElementType="Button" FullSelectorArgument="&lt;uia cls='NetUIButton' name='OK' /&gt;" Guid="e1d20ad5-f155-4247-a081-d108e08c0999" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='NUIDialog' title='Create Table' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="b072394b52d4f39bd469803444117a17.png" xmlns="">0xzfOKBd6EkumI490MJgnxg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

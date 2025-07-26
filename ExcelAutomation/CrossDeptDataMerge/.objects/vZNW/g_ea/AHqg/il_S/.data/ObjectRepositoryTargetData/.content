@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pcRcqh7RUEKF7SbKCZGusA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1204, 111, 70, 96" FullSelectorArgument="&lt;uia cls='MsoCommandBar' helpText='Ribbon toolbar' /&gt;&lt;uia cls='NetUIOrderedGroup' name='Home' /&gt;&lt;uia cls='NetUIChunk' name='Styles' /&gt;&lt;uia automationid='FormatAsTableGallery' cls='NetUIAnchor' name='Format as Table' /&gt;" Guid="3eafaba0-f54f-4793-98d8-f4b913ac7f8a" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='XLMAIN' title='MonthReport - Excel' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="be0be75305bc43746da131c906762efd.png" xmlns="">0ZAAlKZBe2UO7rgApJZ_DVQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
