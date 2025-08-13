@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="blKqiiQNqEutaGkuP6Sreg" Reference="oeqrzmj3uEScYxo4oU1deA/B_k8F6_ej0yrOf4w6WXtmQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="fakenamegenerator.com" CVScreenId="1fcc9d5f-dcb5-4dd6-ab8d-7327f93b9988" CvElementArea="622, 527, 254, 35" CvType="InputBox" DesignTimeRectangle="624, 530, 250, 31" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl id='n' tag='SELECT' type='' class='' aaname='Name set' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="eba67885-c785-4efd-b9fd-2a48574b861e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Generate a Random Name - Fake Name Generator' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1fcc9d5f-dcb5-4dd6-ab8d-7327f93b9988" CvTextArea="529, 534, 86, 16" CvTextArgument="Name set" CvType="Text" DesignTimeRectangle="530, 531, 83, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Name set' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Name set' /&gt;" Guid="200ee62d-ef72-4258-a399-2e68dbd9734a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6f791a2bee09bf19a4d91074ac644961.png" xmlns="">0LRklbzuj3ESG8At5YY-oIg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
