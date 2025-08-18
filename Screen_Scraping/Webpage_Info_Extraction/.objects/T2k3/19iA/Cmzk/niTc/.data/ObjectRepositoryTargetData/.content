@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_ksztO-CGUeYADMjHfthIg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="2ac32a18-6e8e-4d6b-95cd-378285f61f12" CvTextArea="314, 355, 58, 16" CvTextArgument="Videos" CvType="Text" DesignTimeRectangle="317, 353, 55, 38" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Videos' parentid='cnt' tag='SPAN' /&gt;" Guid="0a49e8b1-c4f9-4dec-aa56-68ef1222709d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='uipath academy - Google Search' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2f5d18d399456da545960352d1d84dd0.png" xmlns="">0U8Us8HBeuUa0qajhp5gkKQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
